@@ -40,6 +40,7 @@ input[type=button] {
     outline: none;
     border: 2px solid rgb(0, 0, 0);
     cursor: pointer;
+    color: #ffffff;
 }
 
 input:active[type=button] {
